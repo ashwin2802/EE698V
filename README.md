@@ -1,5 +1,11 @@
 This repository is mostly a copy of Stanford's Pantheon: https://github.com/StanfordSNR/pantheon
 
+The other repositories used for the course project are hosted at the following links:
+
+https://github.com/ashwin2802/PCC-RL
+
+https://github.com/ashwin2802/PCC-RL_Uspace
+
 An additional submodule and relevant wrappers have been added for conducting experiments with RL-based Congestion Control algorithms. The methodology for experiments remains the same as detailed below.
 
 
