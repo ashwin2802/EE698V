@@ -19,6 +19,10 @@ schemes:
     name: PCC-Allegro
     color: cyan
     marker: '>'
+  pcc_rl:
+    name: PCC-RL
+    color: yellow
+    marker: 'x'
   verus:
     name: Verus
     color: skyblue

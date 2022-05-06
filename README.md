@@ -1,3 +1,8 @@
+This repository is mostly a copy of Stanford's Pantheon: https://github.com/StanfordSNR/pantheon
+
+An additional submodule and relevant wrappers have been added for conducting experiments with RL-based Congestion Control algorithms. The methodology for experiments remains the same as detailed below.
+
+
 # Pantheon of Congestion Control [![Build Status](https://travis-ci.org/StanfordSNR/pantheon.svg?branch=master)](https://travis-ci.org/StanfordSNR/pantheon)
 The Pantheon contains wrappers for many popular practical and research
 congestion control schemes. The Pantheon enables them to run on a common
